@@ -1,1 +1,1 @@
-# BGGproject
+This is a small project where I scraped board games data from [BGG](https://boardgamegeek.com/) and have fun with it.
